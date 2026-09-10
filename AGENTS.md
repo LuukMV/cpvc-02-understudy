@@ -5,8 +5,9 @@ unclear, ask before editing. This file briefs the agent; it does not run the pag
 
 ## My reader rule
 
-[Replace with one observable rule. Example: explain each project in ordinary
-language before showing technical terms, without inventing a missing purpose.]
+State plainly, before showing any number, whether the one listed project is
+enough evidence to decide; never let a stat imply more confidence than a
+single project supports.
 
 ## Scope and evidence
 
